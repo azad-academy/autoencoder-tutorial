@@ -1,2 +1,4 @@
 # autoencoder-tutorial
-This is a implementation of autoencoders in python.
+This is an implementation of autoencoders in python. The full tutorial is available on medium.
+
+![poolImage](autoeautoencoder-tutorial.png)
